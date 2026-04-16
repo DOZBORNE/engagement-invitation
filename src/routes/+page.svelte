@@ -38,12 +38,19 @@
 			.first} & {event.couple.second}, {event.date.monthLabel} {event.date.dayNumber}, {event.date
 			.yearLabel}, in {event.cityShort}."
 	/>
+	<meta property="og:type" content="website" />
 	<meta property="og:title" content="{event.couple.first} & {event.couple.second} — Engaged" />
 	<meta
 		property="og:description"
 		content="An evening to celebrate. {event.date.monthLabel} {event.date.dayNumber}, {event.date
 			.yearLabel} · {event.cityShort}"
 	/>
+	<meta property="og:image" content="/og-image.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:alt" content="You're Invited — Devin & Jessica" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="/og-image.png" />
 </svelte:head>
 
 <main class="relative z-10">
