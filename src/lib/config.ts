@@ -18,12 +18,12 @@ export const event = {
     timeLabel: "6:00 PM",
   },
   venue: {
-    name: "The home of Devin",
+    name: "The forthcoming home of Devin & Jessica",
     addressLine1: "4400 5th Avenue South",
     addressLine2: "Birmingham, Alabama",
   },
   parking:
-    "Park along the 4th Avenue South neighboorhood, or by Bruto in the parking lot.",
+    "Park along the 4th Avenue South neighborhood, or by Bruto in the parking lot.",
   dressCode: "Casual / Cocktail attire",
   rsvp: {
     deadlineIso: "2026-04-28T23:59:00-05:00",
