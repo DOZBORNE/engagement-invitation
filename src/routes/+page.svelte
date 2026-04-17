@@ -113,8 +113,8 @@
             <div class="max-w-[20rem]">
                 <div class="eyebrow mb-2">The Occasion</div>
                 <p class="font-display text-base leading-snug sm:text-lg">
-                    are pleased to announce their engagement, and would be
-                    honored by your company.
+                    request the pleasure of your company at a celebration
+                    of their engagement.
                 </p>
             </div>
             <a
