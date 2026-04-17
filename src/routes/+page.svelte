@@ -42,7 +42,7 @@
     <meta property="og:type" content="website" />
     <meta
         property="og:title"
-        content="{event.couple.first} & {event.couple.second} — Engaged"
+        content="{event.couple.first} & {event.couple.second} — Engagement"
     />
     <meta
         property="og:description"
